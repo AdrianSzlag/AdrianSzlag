@@ -1,16 +1,15 @@
 ### Hi there 👋
+I'm Adrian, a final-year Software Engineering student at Cracow University of Technology. 🎓
 
-<!--
-**AdrianSzlag/AdrianSzlag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠 Tech Stack:
 
-Here are some ideas to get you started:
+* Mostly programming in JavaScript and TypeScript.
+* Also familiar with C++ and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 Interests:
+
+* Passionate about Artificial Intelligence. 🤖
+* Love tinkering with new technologies. 🛠
+* A regular participant in Hackathons. 🏆
+
+Contact Me: [contact@adrianszlag.pl](mailto:contact@adrianszlag.pl) 
