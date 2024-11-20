@@ -1,10 +1,10 @@
 ### Hi there 👋
-I'm Adrian, a final-year Software Engineering student at Cracow University of Technology. 🎓
+I'm Adrian, a Master's student in Cybersecurity at Cracow University of Technology. 🎓
 
 🛠 Tech Stack:
 
-* Mostly programming in JavaScript and TypeScript.
-* Also familiar with C++ and Python.
+* Mostly programming in TypeScript.
+* Also familiar with Python and C++.
 
 🔥 Interests:
 
